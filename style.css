@@ -1,0 +1,16 @@
+.hero-pic {
+    border-radius: 50%; 
+    width: 86px; 
+    height: 86px; 
+    object-fit: cover;
+    object-position: center;
+}
+
+.knowledge-card {
+    width: 18rem;
+    max-width: 18rem;
+}
+
+#scrollspy nav{
+    text-decoration: none;
+}
