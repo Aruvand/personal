@@ -9,6 +9,7 @@
 .hero-section {
     background-image: url(static/hero_background-pale.png);
     background-size: cover;
+    background-position: center;
 }
 
 .knowledge-card {
