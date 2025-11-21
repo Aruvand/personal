@@ -6,6 +6,11 @@
     object-position: center;
 }
 
+.hero-section {
+    background-image: url(static/hero_background-pale.png);
+    background-size: cover;
+}
+
 .knowledge-card {
     width: 18rem;
     max-width: 18rem;
@@ -13,4 +18,8 @@
 
 #scrollspy nav{
     text-decoration: none;
+}
+
+.nav .nav-link:not(.active) {
+    color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity));
 }
